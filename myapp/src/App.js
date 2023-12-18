@@ -1,11 +1,10 @@
-
 import React from 'react';
-import Formulario from './Formulario';
+import Home from './Home'
 
 const App = () => {
   return (
         <>
-          <Formulario />
+          <Home />
         </>    
   );
 };
